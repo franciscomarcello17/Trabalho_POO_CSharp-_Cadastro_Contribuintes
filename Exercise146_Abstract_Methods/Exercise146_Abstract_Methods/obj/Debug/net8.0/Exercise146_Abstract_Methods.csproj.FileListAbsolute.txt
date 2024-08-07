@@ -1,0 +1,14 @@
+C:\Users\ROBOTEASY12\Documents\Francisco\Estudos\Udemy\Curso POO C#\Aulas\Secao_10\Exercise146_Abstract_Methods\Exercise146_Abstract_Methods\bin\Debug\net8.0\Exercise146_Abstract_Methods.exe
+C:\Users\ROBOTEASY12\Documents\Francisco\Estudos\Udemy\Curso POO C#\Aulas\Secao_10\Exercise146_Abstract_Methods\Exercise146_Abstract_Methods\bin\Debug\net8.0\Exercise146_Abstract_Methods.deps.json
+C:\Users\ROBOTEASY12\Documents\Francisco\Estudos\Udemy\Curso POO C#\Aulas\Secao_10\Exercise146_Abstract_Methods\Exercise146_Abstract_Methods\bin\Debug\net8.0\Exercise146_Abstract_Methods.runtimeconfig.json
+C:\Users\ROBOTEASY12\Documents\Francisco\Estudos\Udemy\Curso POO C#\Aulas\Secao_10\Exercise146_Abstract_Methods\Exercise146_Abstract_Methods\bin\Debug\net8.0\Exercise146_Abstract_Methods.dll
+C:\Users\ROBOTEASY12\Documents\Francisco\Estudos\Udemy\Curso POO C#\Aulas\Secao_10\Exercise146_Abstract_Methods\Exercise146_Abstract_Methods\bin\Debug\net8.0\Exercise146_Abstract_Methods.pdb
+C:\Users\ROBOTEASY12\Documents\Francisco\Estudos\Udemy\Curso POO C#\Aulas\Secao_10\Exercise146_Abstract_Methods\Exercise146_Abstract_Methods\obj\Debug\net8.0\Exercise146_Abstract_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROBOTEASY12\Documents\Francisco\Estudos\Udemy\Curso POO C#\Aulas\Secao_10\Exercise146_Abstract_Methods\Exercise146_Abstract_Methods\obj\Debug\net8.0\Exercise146_Abstract_Methods.AssemblyInfoInputs.cache
+C:\Users\ROBOTEASY12\Documents\Francisco\Estudos\Udemy\Curso POO C#\Aulas\Secao_10\Exercise146_Abstract_Methods\Exercise146_Abstract_Methods\obj\Debug\net8.0\Exercise146_Abstract_Methods.AssemblyInfo.cs
+C:\Users\ROBOTEASY12\Documents\Francisco\Estudos\Udemy\Curso POO C#\Aulas\Secao_10\Exercise146_Abstract_Methods\Exercise146_Abstract_Methods\obj\Debug\net8.0\Exercise146_Abstract_Methods.csproj.CoreCompileInputs.cache
+C:\Users\ROBOTEASY12\Documents\Francisco\Estudos\Udemy\Curso POO C#\Aulas\Secao_10\Exercise146_Abstract_Methods\Exercise146_Abstract_Methods\obj\Debug\net8.0\Exercise146_Abstract_Methods.dll
+C:\Users\ROBOTEASY12\Documents\Francisco\Estudos\Udemy\Curso POO C#\Aulas\Secao_10\Exercise146_Abstract_Methods\Exercise146_Abstract_Methods\obj\Debug\net8.0\refint\Exercise146_Abstract_Methods.dll
+C:\Users\ROBOTEASY12\Documents\Francisco\Estudos\Udemy\Curso POO C#\Aulas\Secao_10\Exercise146_Abstract_Methods\Exercise146_Abstract_Methods\obj\Debug\net8.0\Exercise146_Abstract_Methods.pdb
+C:\Users\ROBOTEASY12\Documents\Francisco\Estudos\Udemy\Curso POO C#\Aulas\Secao_10\Exercise146_Abstract_Methods\Exercise146_Abstract_Methods\obj\Debug\net8.0\Exercise146_Abstract_Methods.genruntimeconfig.cache
+C:\Users\ROBOTEASY12\Documents\Francisco\Estudos\Udemy\Curso POO C#\Aulas\Secao_10\Exercise146_Abstract_Methods\Exercise146_Abstract_Methods\obj\Debug\net8.0\ref\Exercise146_Abstract_Methods.dll
